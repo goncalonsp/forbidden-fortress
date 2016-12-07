@@ -4,7 +4,7 @@ Welcome to a repository about security and methods of applying that security int
 
 All information on this repo was collected from my personal application of this methods to services and tools that I use. As a disclaimer, most of the articles (or all) use a Yubikey Neo since it is the hardware that I personally aquired, and not because I have some affiliation with Yubico.
 
-**TOC**
+## TOC
 
 - Protect your computer (OS) login
 	- [Yubikey with Ubuntu](Login-in-Ubuntu-with-Yubikey.md)
@@ -15,3 +15,7 @@ All information on this repo was collected from my personal application of this 
 - Configure Yubikey for Website login
 	- Google
 	- Dropbox
+
+## Contributing
+
+If you want to contribute to this repo just feel free to PR!
