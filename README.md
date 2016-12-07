@@ -2,7 +2,7 @@
 **TODO**
 
 - Configure Yubikey for OS login
-	- [Ubuntu](Login-in-Ubuntu-with-Yubikey)
+	- [Ubuntu](Login-in-Ubuntu-with-Yubikey.md)
 	- OSX
 	- Windows
 - Configure Yubikey with a password manager
