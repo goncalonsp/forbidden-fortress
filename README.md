@@ -12,7 +12,7 @@ All information on this repo was collected from my personal application of this 
 	- Yubikey with Windows
 - [Protect your password manager (Keepass) with a Yubikey](Yubikey-with-Keepass.md)
 - [Protect TOTP codes generation with a Yubikey](TOTP-Codes-Generation-with-a-Yubikey.md) (aka protect Google Authenticator like apps)
-- Configure Yubikey for Website login
+- Configure U2F security key for Website login
 	- [Google](https://www.yubico.com/support/knowledge-base/categories/articles/how-to-use-your-yubikey-with-google/)
 	- [Dropbox](https://www.dropbox.com/help/363?_tk=mb&_camp=product-announce&_ad=u2f&_net=hc-2sv#2fa-security-keys)
 	- [Github](https://help.github.com/articles/configuring-two-factor-authentication-via-fido-u2f/)
