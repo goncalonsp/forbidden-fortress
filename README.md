@@ -1,7 +1,15 @@
 
-# Using Yubikey to log into Ubuntu
+**TODO**
 
-_In construction_
+- Configure Yubikey for OS login
+	- [Ubuntu](Login-in-Ubuntu-with-Yubikey)
+	- OSX
+	- Windows
+- Configure Yubikey with a password manager
+	- Keepass
+- Configure Yubikey for Website login
+	- Google
+	- Dropbox
 
 # Using the Yubikey and Yubico Authenticator to protect your Google Authenticator (or other TOTP application) codes
 
